@@ -1,0 +1,2 @@
+# coolPeopleONLY
+A github project :/
